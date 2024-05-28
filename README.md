@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Passionate undergraduate student specializing in Full Stack Development, with a keen interest in building dynamic and responsive web applications.
+Enthusiast in Full Stack Development, Skilled in building dynamic and responsive web applications using modern technologies.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
