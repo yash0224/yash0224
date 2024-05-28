@@ -4,8 +4,7 @@
   </a>
 </p>
 
-I am an undergrad student, passionate in Full Stack Development.
-
+Passionate undergraduate student specializing in Full Stack Development, with a keen interest in building dynamic and responsive web applications.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
