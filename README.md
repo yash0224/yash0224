@@ -5,9 +5,7 @@
   </a>
 </p>
 
-✨ Enthusiast in Full Stack Development & Skilled in building dynamic and responsive web applications using modern technologies.
-
-📫 How to reach me: mail me at reginthalayaswanth@gmail.com 
+✨ Enthusiast in Full Stack Development & Skilled in building responsive web applications using modern technologies.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
